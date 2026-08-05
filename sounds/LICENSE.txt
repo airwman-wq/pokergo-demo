@@ -1,0 +1,11 @@
+사운드 파일 출처
+─────────────────
+
+play.ogg, flip.ogg, capture.ogg
+  Kenney Casino Audio (CC0 — Public Domain)
+  https://kenney.nl/assets/casino-audio
+  출처표시 불필요, 상업 사용 가능.
+  원본 파일: card-place-1, card-fan-1, card-slide-1
+
+win.wav, lose.wav
+  scripts/gen-sounds.mjs 로 자체 생성 (절차 합성)
